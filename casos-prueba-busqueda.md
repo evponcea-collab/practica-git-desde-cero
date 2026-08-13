@@ -22,7 +22,7 @@
 **Resultado esperado:** se informa que no hay resultados para el término ingresado.
 
 
-CP-003 — Búsqueda con campo vacío
+## CP-003 — Búsqueda con campo vacío
 
 **Pasos:**
 
@@ -30,7 +30,7 @@ CP-003 — Búsqueda con campo vacío
 2. Dejar vacío el campo de búsqueda.
 3. Ejecutar la búsqueda.
 
-**Resultado esperado:** el sistema solicita ingresar un término de búsqueda.
+**Resultado esperado:** el sistema muestra el mensaje "Ingresa un término para buscar".
 
 ## CP-004 - Búsqueda con caracteres especiales
 
