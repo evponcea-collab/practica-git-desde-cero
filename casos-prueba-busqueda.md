@@ -31,3 +31,13 @@ CP-003 — Búsqueda con campo vacío
 3. Ejecutar la búsqueda.
 
 **Resultado esperado:** el sistema solicita ingresar un término de búsqueda.
+
+## CP-004 - Búsqueda con caracteres especiales
+
+**Pasos:**
+
+1. Abrir la página de búsqueda.
+2. Escribir ´@#$%´.
+3. Ejecutar la búsqueda.
+
+**Resultado esperado:** el sistema procesa la búsqueda de forma controlada y no presenta un error técnico.
