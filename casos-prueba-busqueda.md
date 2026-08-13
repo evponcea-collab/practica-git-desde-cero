@@ -30,7 +30,7 @@
 2. Dejar vacío el campo de búsqueda.
 3. Ejecutar la búsqueda.
 
-**Resultado esperado:** el botón de búsqueda permanece deshabilitado mientras el campo esté vacío.
+**Resultado esperado:** el botón de búsqueda permanece deshabilitado mientras el campo esté vacío y el sistema muestra el mensaje "Ingresa un término para buscar".
 
 ## CP-004 - Búsqueda con caracteres especiales
 
