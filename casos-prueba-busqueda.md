@@ -20,3 +20,14 @@
 3. Ejecutar la búsqueda.
 
 **Resultado esperado:** se informa que no hay resultados para el término ingresado.
+
+
+CP-003 — Búsqueda con campo vacío
+
+**Pasos:**
+
+1. Abrir la página de búsqueda.
+2. Dejar vacío el campo de búsqueda.
+3. Ejecutar la búsqueda.
+
+**Resultado esperado:** el sistema solicita ingresar un término de búsqueda.
