@@ -11,3 +11,7 @@ Practicar Git y GitHub para documentar casos de prueba y prepararme para automat
 - Documentación de casos de prueba.
 - Control de versiones con Git.
 - Publicación y colaboración mediante GitHub.
+
+## Estado del repositorio
+
+Repositorio publicado en GitHub con flujo de ramas y Pull Requests praticado.
