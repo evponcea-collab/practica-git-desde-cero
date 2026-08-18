@@ -1,1 +1,1 @@
-resultado-validado-en-original
+resultado=validado-tras-revision
