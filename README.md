@@ -15,3 +15,7 @@ Practicar Git y GitHub para documentar casos de prueba y prepararme para automat
 ## Estado del repositorio
 
 Repositorio publicado en GitHub con flujo de ramas y Pull Requests praticado.
+
+## Sincronización
+
+Antes de integrar cambios, se revisa el historial remoto con `git fetch`.
