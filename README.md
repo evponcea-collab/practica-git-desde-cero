@@ -18,4 +18,4 @@ Repositorio publicado en GitHub con flujo de ramas y Pull Requests praticado.
 
 ## Sincronización
 
-Antes de integrar cambios, se revisa el historial remoto con `git fetch`.
+Antes de integrar cambios, se revisa el historial remoto con `git fetch' y se valida el alcance del cambio.
